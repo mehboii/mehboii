@@ -1,4 +1,5 @@
 ## Hey this is Shubh pant Founder of N11X Collective 
+19 y/o solo founder @N11X Collective Building GhostNet privacy first encrypted mesh network that works without internet, SDK live on npm Security obsessed 1200+ vulns found & fixed, Privacy by mathematics, not by policy.
 
 
 
