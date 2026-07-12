@@ -1,6 +1,6 @@
 
 ## Btech 3rd year student in computer science Artificial intelligence 
- 19 y/o solo founder @N11X Collective Building GhostNet privacy first encrypted mesh network that works without internet, SDK & CLI live on npm Security obsessed 1200+ vulns found & fixed, Privacy the right of every human being
+ 19 y/o solo founder @N11X Collective Building GhostNet privacy first encrypted mesh network that works without internet, SDK & CLI live on npm Security obsessed 1200+ vulns found & fixed, Privacy the right of every human being.
 
 
  
